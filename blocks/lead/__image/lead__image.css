@@ -4,14 +4,15 @@
   padding-bottom: 8px;
 }
 
-@media screen and (min-width: 769px) and (max-width: 1279px) {
+@media screen and (min-width: 1024px) {
   .lead__image {
-    width: 90.625%;
+    max-width: 928px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .lead__image {
-    width: 76.875%;
+    max-width: 984px;
   }
+
 }

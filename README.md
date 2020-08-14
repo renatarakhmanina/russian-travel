@@ -18,5 +18,5 @@ _______________________________
 * Подробное изучение Grid Layout
 
 ________________________________
-Ссылка GitHub: https://github.com/renatarakhmanina/russian-travel
+Ссылка GitHub: https://renatarakhmanina.github.io/russian-travel/
 
