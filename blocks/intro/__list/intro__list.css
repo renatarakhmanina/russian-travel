@@ -4,19 +4,13 @@
   margin: 0;
 }
 
-@media screen and (min-width: 426px) and (max-width: 768px) {
+@media screen and (min-width: 426px) {
   .intro__list {
     max-width: 100%;
   }
 }
 
-@media screen and (min-width: 769px) and (max-width: 1024px) {
-  .intro__list {
-    max-width: 690px;
-  }
-}
-
-@media screen and (min-width: 1025px) {
+@media screen and (min-width: 1024px) {
   .intro__list {
     max-width: 690px;
   }

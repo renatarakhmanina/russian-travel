@@ -2,32 +2,27 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 90%;
+  max-width: 90%;
   margin: 0 auto;
-  padding: 64px 0 24px;
+  padding-bottom: 24px;
   
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px){
+@media screen and (min-width: 768px) {
   .footer {
     flex-direction: row;
-    width: 93.75%;
-    padding-top: 88px;
+    max-width: 93.75%;
   }
 }
 
 @media screen and (min-width: 1024px){
   .footer {
-    flex-direction: row;
-    padding-top: 92px;
     max-width: 928px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .footer {
-    flex-direction: row;
-    padding-top: 92px;
     max-width: 1184px;
   }
 }

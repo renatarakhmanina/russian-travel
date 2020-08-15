@@ -12,4 +12,5 @@
 
 .cover__overlay:hover {
   background: rgba(42, 44, 47, 0.8);
+  transition: background .5s ease 0s;
 }
