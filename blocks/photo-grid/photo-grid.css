@@ -5,13 +5,11 @@
   width: 90%;
   gap: 12px;
   padding: 0 16px;
-  
 }
-
 
 @media screen and (min-width: 768px) {
   .photo-grid {
-    max-width: 93.75%;
+    width: 93.75%;
     gap: 16px;
     padding: 0 24px;
   }
@@ -19,7 +17,7 @@
 
 @media screen and (min-width: 1024px) {
   .photo-grid {
-    max-width: 928px;
+    width: 928px;
     gap: 14px;
     padding: 0 48px;
   }
@@ -27,8 +25,7 @@
 
 @media screen and (min-width: 1280px) {
   .photo-grid {
-    max-width: 1184px;
+    width: 1184px;
     gap: 16px;
-    padding: 0 48px;
   }
 }
