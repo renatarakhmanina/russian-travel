@@ -11,14 +11,14 @@
   padding: 48px 0 16px;
 }
 
-@media screen and (min-width: 375px) and (max-width: 425px) {
+@media screen and (min-width: 375px) {
   .lead__title {
     font-size: 46px;
     line-height: 50px;
   }
 }
 
-@media screen and (min-width: 426px) and (max-width: 767px) {
+@media screen and (min-width: 426px) {
   .lead__title {
     padding-bottom: 32px;
     font-size: 50px;
